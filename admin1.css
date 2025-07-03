@@ -1,0 +1,30 @@
+a{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
+body{
+    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Ftemplates%2Fs%2Fabstract-wallpaper%2F&psig=AOvVaw3IExtQoD6vYs3BkS7KkJ1D&ust=1751603495542000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNCF7dXtn44DFQAAAAAdAAAAABAE");
+}
+table{
+    width: 100%;
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: azure;
+    
+}
+th{
+    border: 1px solid#070707;
+    padding: 12px;
+    background-color: #000000c7;
+    color: white;
+}
+td{
+    border: 0.5px solid #111111;
+
+}
+h2{
+    font-size: 28px;
+    color: #333;
+    text-align: center;
+}
